@@ -61,8 +61,6 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
         self.addChildViewControllerWithView(onBoardingPC)
     }
     
-    
-}
 
 ### Delegate method on what to do on completion
 
@@ -122,11 +120,11 @@ Adie Olalekan – [@AdieOlami](https://twitter.com/AdieOlami) – ugbeadie@gmail
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/KingOlami/OnBoardingScreen.git](https://github.com/KingOlami/)
+[https://github.com/AdieOlami/OnBoardingScreen.git](https://github.com/AdieOlami/)
 
 ## Contributing
 
-1. Fork it (<https://github.com/kingolami/OnBoardingScreen/fork>)
+1. Fork it (<https://github.com/AdieOlami/OnBoardingScreen/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -135,4 +133,4 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 <!-- Markdown link & img dfn's -->
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/KingOlami/OnBoardingScreen/wiki
+[wiki]: https://github.com/AdieOlami/OnBoardingScreen/wiki
