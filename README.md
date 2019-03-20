@@ -5,8 +5,12 @@
 
 OnBoardingScreen gives you a smooth and easy experience when implemeting in your app. It is easy to customize and modify.
 
-![](img1.PNG)
-![](img2.PNG)
+<div float="left">
+  <img src="./img1.PNG" width="200" height="350"/>
+  <img src="./img2.PNG" width="200" height="350"/>
+  <img src="./img3.PNG" width="200" height="350"/> 
+  <img src="./img4.PNG" width="200" height="350"/>
+</div>
 
 ## Installation
 
